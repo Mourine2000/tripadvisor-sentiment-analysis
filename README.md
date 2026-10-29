@@ -1,3 +1,4 @@
+<img width="608" height="328" alt="images (1)" src="https://github.com/user-attachments/assets/98ba9132-4a29-4e30-8413-400fafb17277" />
 # Comparative NLP Sentiment Analysis: TF-IDF vs. Fine-Tuned DistilBERT
 
 > **Author:** Mourine Lagat  
